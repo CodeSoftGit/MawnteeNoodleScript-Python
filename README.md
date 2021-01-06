@@ -1,4 +1,4 @@
-# Noodle-Extensions-Template-FIle
+# Noodle-Extensions-Template-File
 Personal Template based of the original demo.js file from the Noodle Extensions Documentation. 
 
 
