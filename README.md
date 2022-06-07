@@ -12,6 +12,7 @@ You can find the Examples and documention map here: https://github.com/Aeroluna/
 You can also find a list and example of all the animation properties here: https://github.com/Aeroluna/NoodleExtensions/blob/master/Documentation/AnimationDocs.md
 
 UPDATE: For a detailed dive into the three different ways of animating in NE, check out my guide here: https://youtu.be/nMHaPJ8o-Jk
+
 I highly recommend watching this even if you already have previous experience with Noodle Extensions. 
 
 For those of you who are familiar with NE, or if you've already made a few maps with my (or someone else's) script, I recommend checking out ReMapper from Swifter. 
