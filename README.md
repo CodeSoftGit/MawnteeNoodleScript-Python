@@ -16,5 +16,5 @@ UPDATE: For a detailed dive into the three different ways of animating in NE, ch
 I highly recommend watching this even if you already have previous experience with Noodle Extensions. 
 
 For those of you who are familiar with NE, or if you've already made a few maps with my (or someone else's) script, I recommend checking out ReMapper from Swifter. 
-It's a Utility designed for making NE maps and offers MUCH more control and has a significantly more simplified workflow.
+It's a Utility designed for making NE maps and offers MUCH more control along with a more simplified workflow.
 https://github.com/Swifter1243/ReMapper
